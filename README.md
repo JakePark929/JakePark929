@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div><h3>😊 Jake Park</h3></div>
+<div align=center><h3>😊 Jake Park</h3></div>
 
-<div>
+<div align=center>
   <p>
    👋 Hi there,
     I'm <b>server developer</b> skilled in API, WEB.🚀<br/>
