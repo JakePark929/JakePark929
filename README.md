@@ -1,5 +1,3 @@
-<div align=center><h3>👋 Hi there</h3></div>
-
 <!--
 **JakePark929/JakePark929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,16 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
+<div><h2>Jake Park</h2></div>
+
+<div>
   <p>
+   👋 Hi there,
     I'm <b>server developer</b> skilled in API, WEB.🚀<br/>
     I hope to develop services that help everyone. 🧑‍💻 <br/><br/>
   </p>
 </div>
 
-<div align=center><h3>📚 Stacks</h3></div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakePark929&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=epikeran)](https://solved.ac/epikeran)
 
-<div align=center> 
+<div><h3>📚 Stacks</h3></div>
+
+<div> 
   <!--Languages -->
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
