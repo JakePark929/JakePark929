@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 
 <div align=center>
   <p>
-   👋 Hi there,
+   👋Hi there,
     I'm <b>server developer</b> skilled in API, WEB.🚀<br/>
     I hope to develop services that help everyone. 🧑‍💻 <br/><br/>
   </p>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakePark929&show_icons=true&theme=dracula&height=170em)
+&nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakePark929&show_icons=true&theme=dracula&height=170em)&nbsp;&nbsp;
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=epikeran)](https://solved.ac/epikeran)
 
 <div><h3>📚 Stacks</h3></div>
