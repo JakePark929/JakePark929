@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-&nbsp;&nbsp;
+&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakePark929&show_icons=true&theme=dracula&height=170em)&nbsp;&nbsp;
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=epikeran)](https://solved.ac/epikeran)
 
