@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakePark929&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=epikeran)](https://solved.ac/epikeran)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakePark929&show_icons=true&theme=dracula&height=170em)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=epikeran)](https://solved.ac/epikeran)
 
 <div><h3>📚 Stacks</h3></div>
 
